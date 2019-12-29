@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>Hello World with a header component</div>
+export default () => <h1>Hello World with a header component</h1>
